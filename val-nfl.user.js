@@ -2,6 +2,8 @@
 // @name         Panel de Val · NFL
 // @namespace    val
 // @version      1.7.1
+// @updateURL    https://raw.githubusercontent.com/xXValdiXx/val-nfl/main/val-nfl.user.js
+// @downloadURL  https://raw.githubusercontent.com/xXValdiXx/val-nfl/main/val-nfl.user.js
 // @description  Análisis NFL de Val: modelo de equipos y jugadores, cuotas de Playdoit, mercado de referencia ESPN, simulador de "crea tu apuesta"
 // @match        https://www.sofascore.com/*
 // @grant        GM_xmlhttpRequest
